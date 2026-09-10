@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Galaga-OpenGL", "Galaga-OpenGL.vcxproj", "{19B66AF6-F19F-400B-A496-41C7E588CB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Debug|x64.ActiveCfg = Debug|x64
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Debug|x64.Build.0 = Debug|x64
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Debug|x86.ActiveCfg = Debug|Win32
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Debug|x86.Build.0 = Debug|Win32
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Release|x64.ActiveCfg = Release|x64
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Release|x64.Build.0 = Release|x64
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Release|x86.ActiveCfg = Release|Win32
+		{19B66AF6-F19F-400B-A496-41C7E588CB68}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC35E50-3E23-4095-8CD3-B512AA4FDC32}
+	EndGlobalSection
+EndGlobal
